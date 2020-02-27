@@ -1,0 +1,14 @@
+/home/mmedic/Programming_Projects/ASP/JwtApi/bin/Debug/netcoreapp2.2/JwtApi.deps.json
+/home/mmedic/Programming_Projects/ASP/JwtApi/bin/Debug/netcoreapp2.2/JwtApi.runtimeconfig.json
+/home/mmedic/Programming_Projects/ASP/JwtApi/bin/Debug/netcoreapp2.2/JwtApi.runtimeconfig.dev.json
+/home/mmedic/Programming_Projects/ASP/JwtApi/bin/Debug/netcoreapp2.2/JwtApi.dll
+/home/mmedic/Programming_Projects/ASP/JwtApi/bin/Debug/netcoreapp2.2/JwtApi.pdb
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.csprojAssemblyReference.cache
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.csproj.CoreCompileInputs.cache
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.RazorAssemblyInfo.cache
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.RazorAssemblyInfo.cs
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.AssemblyInfoInputs.cache
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.AssemblyInfo.cs
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.RazorTargetAssemblyInfo.cache
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.dll
+/home/mmedic/Programming_Projects/ASP/JwtApi/obj/Debug/netcoreapp2.2/JwtApi.pdb
